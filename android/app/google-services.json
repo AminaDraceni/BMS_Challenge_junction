@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "800820194314",
+    "project_id": "bms-electrical-junctionx",
+    "storage_bucket": "bms-electrical-junctionx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800820194314:android:6ef691f95af7ae1b7f43f3",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800820194314-ar2nhtptg567rkqh1not5trj178785ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "5057ab027a113503670b11cb60488b44c9792273"
+          }
+        },
+        {
+          "client_id": "800820194314-3saho40vtqarbb8ectjr7j6t0ki3ccuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF0sf29REDaVsXZFYG2VQTXPWVXo4OtpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800820194314-3saho40vtqarbb8ectjr7j6t0ki3ccuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
