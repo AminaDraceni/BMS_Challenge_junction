@@ -19,6 +19,7 @@ environment:
 dependencies:
   firebase_core: ^0.5.3
   cloud_firestore: any
+  google_maps_flutter : any
   flutter:
     sdk: flutter
   
